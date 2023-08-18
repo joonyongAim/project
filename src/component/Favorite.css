@@ -1,0 +1,15 @@
+.fa {
+  display: block;
+}
+
+.fa h1 {
+  text-align: center;
+}
+
+.l {
+  display: flex;
+  text-align: center;
+  gap: 20px;
+}
+
+

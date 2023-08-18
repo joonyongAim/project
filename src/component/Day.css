@@ -1,0 +1,17 @@
+.total {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.Dy {
+  text-align: center;
+}
+
+.Dy img {
+  margin-bottom: 30px;
+}
+
+.Dy h4 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

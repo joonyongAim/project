@@ -1,0 +1,61 @@
+.carousel-control-next-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.carousel-control-prev-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.work .bt {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 20px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.D {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 20px;
+  text-align: center;
+  margin-right: 28px;
+  margin-top: 20px;
+}
+
+.work h4 {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.popular {
+  display: grid;
+  grid-template-columns: repeat(8, 200px);
+  gap: 30px;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.popwork h4 {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.version {
+  display: grid;
+  grid-template-columns: repeat(8, 200px);
+  gap: 30px;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.verwork h4 {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+

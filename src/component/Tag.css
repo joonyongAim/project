@@ -1,0 +1,65 @@
+.entire .genre {
+  margin-right: 80px;
+}
+
+.entire .tag {
+  margin-right: 80px;
+}
+
+.entire .year {
+  margin-right: 80px;
+}
+
+
+.TS {
+  text-align: center;
+}
+
+.TS h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.genre {
+  height: 700px;
+  border-bottom: 1px orange solid;
+}
+
+.tag {
+  height: 700px;
+  border-bottom: 1px yellow solid;
+}
+
+.year {
+  height: 700px;
+  border-bottom: 1px blue solid;
+}
+
+.screen {
+  height: 700px;
+  border-bottom: 1px greenyellow solid;
+}
+
+.genre .gr {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr 3fr;
+  gap: 30px;
+}
+
+.tag .tg {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr 3fr;
+  gap: 30px;
+}
+
+.year .yr {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr 4fr;
+  gap: 30px;
+}
+
+.screen .sc {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr 3fr;
+  gap: 30px;
+}

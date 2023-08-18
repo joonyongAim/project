@@ -1,0 +1,36 @@
+.dt {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.dt h4 {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.im {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.m {
+  margin-top: 150px;
+}
+
+.im i {
+  font-size: 50px;
+}
+
+.Detail .im {
+  position: relative;
+}
+
+.Detail .im .star{
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(-25px, 10px);
+}
